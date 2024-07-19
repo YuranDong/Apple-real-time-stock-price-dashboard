@@ -1,5 +1,5 @@
 # Apple-real-time-stock-price-dashboard
-Overview
+Overview<br>
 This project is a Streamlit-based web application that displays real-time stock data for Apple Inc. (AAPL). The application fetches stock data from Yahoo Finance, stores it in a MongoDB database, and provides a user-friendly interface to visualize the data in various time frames. The dashboard features real-time updates, candlestick charts using Plotly, and key stock metrics.
 
 Features
