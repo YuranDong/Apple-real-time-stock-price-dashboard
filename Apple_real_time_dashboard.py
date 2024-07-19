@@ -19,10 +19,11 @@ time_periods = {
 }
 
 # MongoDB connection setup, using local mongodb and designed portal
-mongo = 'mongodb://localhost:27017/'
+mongo = 'mongodb+srv://dyr_globalai:3H4xLhE9UfgfTrOk@cluster0.cvguqnb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 client = MongoClient(mongo)
 db = client['stock_data_db']
 collection = db['apple_stock']
+
 
 # Function to get stock data based on the selected time period
 def get_stock_data(company, period, interval):
