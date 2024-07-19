@@ -23,9 +23,9 @@ This project is a Streamlit-based web application that displays real-time stock 
 
 Install the required Python libraries using pip:
 
-```bash
+```
 pip install streamlit yfinance plotly pymongo pandas
-bash```
+```
 
 ### MongoDB Setup
 
@@ -38,15 +38,18 @@ Follow the guide on mongodb official site to use the cloud-based MongoDB.
 
 ## Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/apple-stock-dashboard.git
-cd apple-stock-dashboard``````
+```
+git clone https://github.com/YuranDong/Apple-real-time-stock-price-dashboard.git
+cd apple-stock-dashboard
+```
 
 ## Run the Streamlit application:
 
-```bash
-streamlit run app.py```
+```
+streamlit run app.py
+```
 
-## Open your web browser and navigate to http://localhost:8501 to view the dashboard.
+## Open your web browser
+navigate to http://localhost:8501
 
-Or visit https://apple-real-time-stock-price-dashboard-qgvjh9akjbetk6igosujn8.streamlit.app/ to see the dashboard right away.
+or visit https://apple-real-time-stock-price-dashboard-qgvjh9akjbetk6igosujn8.streamlit.app/ to see the dashboard right away.
