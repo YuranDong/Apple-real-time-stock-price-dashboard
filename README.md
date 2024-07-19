@@ -39,7 +39,7 @@ Follow the guide on mongodb official site to use the cloud-based MongoDB.
 
 ```bash
 git clone https://github.com/yourusername/apple-stock-dashboard.git
-cd apple-stock-dashboard```
+cd apple-stock-dashboard``````
 
 ## Run the Streamlit application:
 
