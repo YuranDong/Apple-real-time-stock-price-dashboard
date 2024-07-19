@@ -1,0 +1,7 @@
+streamlit
+yfinance
+plotly.graph_objs
+datetime
+time
+pandas
+pymongo
