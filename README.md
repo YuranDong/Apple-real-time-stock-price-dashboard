@@ -34,22 +34,22 @@ Follow the installation guide for your operating system to install local MongoDB
 Follow the guide on mongodb official site to use the cloud-based MongoDB.
 
 
-### Usage
+## Usage
 
-## Clone the repository:
+### Clone the repository:
 
 ```
 git clone https://github.com/YuranDong/Apple-real-time-stock-price-dashboard.git
 cd apple-stock-dashboard
 ```
 
-## Run the Streamlit application:
+### Run the Streamlit application:
 
 ```
 streamlit run app.py
 ```
 
-## Open your web browser
+### Open your web browser
 navigate to http://localhost:8501
 
 or visit https://apple-real-time-stock-price-dashboard-qgvjh9akjbetk6igosujn8.streamlit.app/ to see the dashboard right away.
