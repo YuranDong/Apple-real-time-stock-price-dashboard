@@ -24,7 +24,8 @@ This project is a Streamlit-based web application that displays real-time stock 
 Install the required Python libraries using pip:
 
 ```bash
-pip install streamlit yfinance plotly pymongo pandas```
+pip install streamlit yfinance plotly pymongo pandas
+bash```
 
 ### MongoDB Setup
 
