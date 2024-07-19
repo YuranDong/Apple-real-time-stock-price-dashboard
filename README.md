@@ -25,3 +25,27 @@ Install the required Python libraries using pip:
 
 ```bash
 pip install streamlit yfinance plotly pymongo pandas
+
+### MongoDB Setup
+
+Follow the installation guide for your operating system to install local MongoDB.
+
+Follow the guide on mongodb official site to use the cloud-based MongoDB.
+
+
+### Usage
+
+## Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/apple-stock-dashboard.git
+cd apple-stock-dashboard
+
+## Run the Streamlit application:
+
+```bash
+streamlit run app.py
+
+## Open your web browser and navigate to http://localhost:8501 to view the dashboard.
+
+Or visit https://apple-real-time-stock-price-dashboard-qgvjh9akjbetk6igosujn8.streamlit.app/ to see the dashboard right away.
